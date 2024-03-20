@@ -1,0 +1,154 @@
+https://miro.com/pt/agile/o-que-e-historia-do-usuario/
+
+
+O que é uma história de usuário no Agile?
+Entender o que o usuário final deseja é fundamental para aprimorar e desenvolver seus negócios. Sem essas informações, é difícil atrair clientes, especialmente se seus concorrentes oferecerem algo que atenda às necessidades deles.
+
+É nesse ponto que as histórias de usuários podem ajudar.
+
+Uma história de usuário no Agile é uma descrição simples e genérica de uma funcionalidade de software a partir da experiência do usuário. Ela define o que um usuário precisa da sua empresa, o que ajuda a priorizar o trabalho e a aumentar o valor para o cliente.
+
+As histórias de usuários são uma ferramenta comum usada nas metodologias Agile, permitindo que as equipes de desenvolvimento trabalhem em iterações, concentrando-se em fornecer pequenas e valiosas partes da funcionalidade aos usuários o mais rápido possível.
+
+Normalmente, uma história de usuário segue o seguinte formato:
+
+"Como [tipo de usuário], eu quero [meta ou objetivo] para que eu [benefício ou resultado]."
+
+Por exemplo, uma história de usuário para uma ferramenta de gerenciamento de projetos poderia ser:
+
+"Como gerente de projeto, quero criar e atribuir tarefas aos membros da equipe para que eu possa acompanhar o progresso do projeto e garantir que o trabalho seja concluído no prazo."
+
+
+
+Um exemplo de história de usuário seguindo os conceitos do Agile
+Imagine que você é designer em um e-commerce de roupas. Para incentivar os consumidores em potencial a fazer uma compra, você precisa criar um site que atenda às necessidades e aos desejos de seus clientes.
+
+Mas o que exatamente isso significa para seu público-alvo?
+
+Para entender completamente o que os consumidores querem do seu site, faça uma pesquisa para descobrir o que os clientes querem (mais sobre isso adiante) e crie as seguintes histórias de usuário:
+
+"Como cliente com recursos limitados, quero filtrar os resultados da pesquisa por faixa de preço para encontrar facilmente produtos que se encaixem em meu orçamento."
+
+"Como um cliente interessado nas últimas tendências, quero filtrar os produtos com base nas últimas novidades do site."
+
+"Como um cliente que deseja um processo de compra rápido, quero usar um site que seja fácil de navegar e rápido para fazer uma compra."
+
+Com essas histórias de usuários em vigor, você tem uma compreensão mais profunda do que os clientes querem da experiência deles no seu site. Esse conhecimento o coloca em uma posição mais forte para criar um site que atenda às necessidades deles e lhes proporcione a melhor experiência possível.
+
+Por que criar histórias de usuários?
+As histórias de usuários garantem que a voz do usuário final seja ouvida e que o produto ou serviço resultante seja criado com as necessidades dele em mente. Veja a seguir alguns dos principais benefícios da criação de histórias de usuários ágeis em mais detalhes:
+
+Para entender o que os usuários finais querem
+As histórias de usuários ágeis são feitas a partir da perspectiva do usuário final, não da equipe de desenvolvimento. Isso coloca seu foco nas necessidades e nos objetivos do usuário. Como resultado, você pode fornecer a eles os recursos e as funcionalidades de que precisam para obter a melhor experiência de usuário.
+
+Para priorizar o trabalho de forma eficaz
+Quando você sabe o que seus clientes estão procurando, pode priorizar seu trabalho de acordo com isso. Em outras palavras, você pode se concentrar primeiro nos requisitos mais críticos, o que lhe permite fornecer o maior valor no menor tempo possível.
+
+Para ser mais flexível
+As histórias de usuários no Agile são fluidas e podem se adaptar rapidamente à medida que os requisitos mudam. Essa flexibilidade permite uma abordagem mais iterativa do processo de desenvolvimento de software, permitindo que a equipe Agile agregue mais valor ao cliente.
+
+Para fazer estimativas precisas
+As histórias de usuários podem ser estimadas e geralmente estão associadas a pontos de história, o que ajuda a entender o esforço necessário para desenvolver um recurso. Isso ajuda no planejamento e na alocação de recursos.
+
+Quais são as 3 partes de uma história de usuário?
+Um formato típico de história de usuário do Agile consiste nas três áreas a seguir:
+
+Quem precisa da funcionalidade?
+
+O que eles querem?
+
+Por que eles precisam disso?
+
+Vamos explorar essas áreas com mais detalhes.
+
+Quem é o usuário final?
+A primeira parte de uma história de usuário envolve a descrição de quem é o usuário final. Pode ser um cliente, um visitante do site, um usuário administrador ou qualquer outro tipo de usuário.
+
+O que o usuário final deseja?
+Uma declaração da meta ou do objetivo do usuário ao usar o sistema. Por exemplo, se a história do usuário for para um site de comércio eletrônico, ele pode querer pesquisar produtos por palavra-chave.
+
+Por que eles querem isso?
+Refere-se ao benefício ou resultado que o usuário obtém com o recurso ou a funcionalidade. Para um site de comércio eletrônico, pode ser encontrar rapidamente os produtos que estão procurando, tornando a experiência de compra mais eficiente.
+
+
+
+Como escrever boas histórias de usuários no Agile?
+Agora que já conhecemos os prós e contras das histórias de usuários em um fluxo de trabalho ágil, vamos examinar o processo de escrever as suas próprias histórias.
+
+Para este guia passo a passo, usaremos o desenvolvimento ágil de software como exemplo.
+
+1. Identifique o usuário final
+A primeira etapa é identificar o usuário final. Se não tiver certeza de quem é o usuário final, não se preocupe. Há algumas maneiras diferentes de lidar com esse processo.
+
+Vamos analisar alguns exemplos:
+
+Realize pesquisa de clientes
+Entre em contato com seus clientes atuais (se você ainda não tiver clientes, use clientes potenciais) para saber mais sobre quem eles são. Para fazer isso, você pode realizar uma pesquisa online, pedir feedback em seus canais de mídia social ou enviar um e-mail diretamente para eles, solicitando informações específicas.
+
+Revise os dados dos clientes existentes
+Se você já tem clientes, explore os dados que possui. Se houver alguma informação sobre os dados demográficos deles (como idade, local, trabalho etc.), use essas informações para criar uma imagem do seu usuário final.
+
+Analise seus concorrentes
+Se você não tiver clientes existentes para analisar, dê uma olhada em quem são os alvos dos seus concorrentes. Isso lhe dará uma boa indicação de quem você deve visar e quem serão seus usuários finais. Use nosso modelo de análise competitiva para dar mais estrutura a sua pesquisa.
+
+Para garantir que você tenha uma visão clara do seu usuário final, considere usar nosso modelo de persona do usuário, assim mantendo todas as informações em um único board da Miro. Com esse modelo, você pode coletar todos os seus dados sobre os usuários finais em um único local e atualizá-los continuamente à medida que novas informações forem surgindo.
+
+
+
+2. Defina a meta ou o objetivo do usuário final
+Agora que você sabe quem é o seu usuário-alvo, precisa descobrir o que ele quer do seu software, inclusive os recursos específicos.
+
+Para isso, você pode seguir as atividades descritas na seção anterior. Converse com seus clientes para descobrir o que eles querem, analise os dados existentes e analise o que seus concorrentes estão fazendo e como o público deles se sente em relação a isso.
+
+Você também pode usar nosso modelo de declaração de problemas do cliente para identificar os problemas que ele enfrenta em seu site. Compreender os desafios do cliente te ajudará a determinar como o seu software pode resolver esses problemas e proporcionar uma melhor experiência ao usuário.
+
+3. Descreva o resultado desejado pelo usuário final
+Em seguida, você precisa descrever o benefício que o usuário final obterá ao usar esse recurso. Para fazer isso, pense no objetivo que você acabou de delinear e faça a si mesmo a seguinte pergunta:
+
+Qual é o raciocínio por trás dessa meta?
+
+Por exemplo, se o usuário final quiser uma barra de pesquisa no seu site, como isso o beneficiará? Isso tornará a experiência mais eficiente? Será mais fácil para ele encontrar o que está procurando?
+
+É assim que o seu recurso beneficia o usuário final, o que é uma parte importante da sua história Agile. Depois de finalizar essas informações, você estará pronto para criar uma história Agile completa, o que nos leva à próxima seção.
+
+4. Crie a história do usuário
+Com os três elementos principais em mãos, agora você pode escrever uma boa história do usuário.
+
+Conforme mencionado, as histórias de usuários são concisas. Não há espaço para jargões, portanto, a linguagem deve ser simples e fornecer uma imagem clara do que o usuário precisa.
+
+Aqui está a estrutura do que descrevemos anteriormente:
+
+"Como [usuário], eu quero [meta/objetivo], para que [benefício/resultado]. "
+
+Você também pode usar nosso modelo para user story mapping para traçar suas ideias. O modelo te ajuda a visualizar a jornada do cliente e a delinear as tarefas que você precisa realizar para melhorar a experiência do cliente.
+
+
+
+5. Trabalhe em conjunto com outras equipes envolvidas
+Embora o Product Owner (PO) geralmente seja o responsável por escrever a história do usuário, é necessária alguma colaboração entre as equipes.
+
+O Product Owner, a equipe de desenvolvimento e outros envolvidos precisam revisar as histórias de usuários para garantir que elas sejam precisas e que todos estejam na mesma página. Ao final desse processo, as histórias de usuários devem ser claras, concisas e precisas.
+
+Essa também é uma oportunidade de definir os critérios de aceitação, que é um conjunto de condições que devem ser atendidas para que uma história de usuário seja concluída. Com os critérios de aceitação em vigor, todos sabem quando um novo recurso ou funcionalidade está pronto para ser lançado.
+
+Para trabalhar em conjunto da forma mais eficaz possível, é útil ter uma ferramenta de colaboração.
+
+Com a Miro, toda a sua equipe pode colaborar virtualmente e pessoalmente em um espaço compartilhado. Você pode adicionar suas histórias de usuário ao espaço de trabalho, compartilhar acesso com sua equipe e até mesmo integrar cartões Jira para acompanhar facilmente o trabalho que está sendo feito.
+
+6. Priorize as histórias de usuários no backlog do produto
+Depois de ter uma lista de histórias de usuários, você precisará adicioná-las ao backlog do produto.
+
+O backlog do produto é uma lista priorizada de todos as funcionalidades que precisam ser desenvolvidos para um produto. É aqui que você organizará e priorizará as histórias de usuários com base no valor que elas oferecem ao usuário final. Confira nosso modelo de backlog do produto para saber mais sobre como ele funciona.
+
+Depois de adicionar as histórias ao backlog, você realizará uma reunião de sprint planning com sua equipe Agile para decidir quais histórias de usuário serão adicionadas ao próximo sprint.
+
+Aqui estão algumas das áreas a serem consideradas ao priorizar as histórias de usuários:
+
+Identifique os ganhos rápidos que agregam mais valor
+Se uma das suas histórias de usuário descreve uma feature nova e simples que pode proporcionar um alto nível de valor para o usuário final, essa deve ser a sua prioridade. Ou seja, você quer oferecer o maior valor possível com o mínimo de trabalho. Dessa forma, o usuário final terá uma experiência melhor e você terá outras features disponíveis para se concentrar.
+
+Revise a capacidade da equipe para os próximos sprints
+Antes de decidir quais histórias de usuário devem ser priorizadas, é importante considerar quanto tempo o trabalho levará e qual é a capacidade da equipe de desenvolvimento. Não adianta priorizar histórias de usuários que a equipe de desenvolvimento simplesmente não terá tempo ou recursos para concluir. Para superar esse obstáculo, converse com a equipe de desenvolvimento com antecedência para descobrir o que é realista.
+
+Use uma matriz de prioridades
+Se estiver com dificuldades para descobrir quais histórias de usuários devem ter prioridade em um próximo sprint, use uma matriz de prioridades. Isso te ajudará a comparar o nível de trabalho necessário e o impacto que ele terá. Temos uma variedade de modelos de priorização e tomada de decisão que podem te ajudar nessa situação.
